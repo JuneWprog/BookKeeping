@@ -35,6 +35,6 @@ d. Application UI is accessible now at
  
 a. Execute ```npm run server```
 
-b. The server runs on localhost:3001/bill 
+b. The server runs on (localhost:3001/bill)
 
 

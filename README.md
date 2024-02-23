@@ -28,13 +28,14 @@ b. Execute ```npm install```
 
 c. To start the UI, execute ```npm start```
 
-d. Application UI is accessible now at 
+d. Application UI is accessible  at 
 (http://localhost:3000/).
 
 3. **Setup Server**
  
 a. Execute ```npm run server```
 
-b. The server runs on (localhost:3001/bill)
+b. The server runs on 
+(http://localhost:3001/bill).
 
 

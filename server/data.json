@@ -1,0 +1,67 @@
+{
+  "bill": [
+    {
+      "type": "pay",
+      "money": -10,
+      "date": "2024-02-24 10:26:02",
+      "useFor": "coffee",
+      "id": 1
+    },
+    {
+      "type": "pay",
+      "money": -500,
+      "date": "2024-02-25 14:30:00",
+      "useFor": "groceries",
+      "id": 2
+    },
+    {
+      "type": "pay",
+      "money": -2000,
+      "date": "2024-02-25 09:15:30",
+      "useFor": "rent",
+      "id": 3
+    },
+    {
+      "type": "income",
+      "money": 1000,
+      "date": "2024-01-27 10:26:02",
+      "useFor": "salary",
+      "id": 4
+    },
+    {
+      "type": "pay",
+      "money": -100,
+      "date": "2024-02-28 10:26:02",
+      "useFor": "dog food",
+      "id": 5
+    },
+    {
+      "type": "pay",
+      "money": -100,
+      "date": "2024-02-25 10:26:02",
+      "useFor": "bus ticket",
+      "id": 6
+    },
+    {
+      "type": "income",
+      "money": 3000,
+      "date": "2024-02-27 12:26:02",
+      "useFor": "salary",
+      "id": 7
+    },
+    {
+      "id": "f03b",
+      "type": "pay",
+      "money": -122,
+      "useFor": "transport",
+      "date": "2024-02-23"
+    },
+    {
+      "id": "7495",
+      "type": "income",
+      "money": 200,
+      "useFor": "investment",
+      "date": "2024-02-23T09:19:06.615Z"
+    }
+  ]
+}

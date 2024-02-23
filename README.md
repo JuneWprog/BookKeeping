@@ -18,8 +18,9 @@ The application has 3 major components.
 ### Setup Instruction
 
 1. Clone the [github repo]([https://github.com/JuneWprog/BookKeeping]) to install the application.
+  ```gh repo clone JuneWprog/BookKeeping```
 
-2. **Setup Client**
+3. **Setup Client**
 
 a. Open Terminal and ```cd BookKeeping```.
 

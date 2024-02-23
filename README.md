@@ -11,9 +11,9 @@
 
 The application has 3 major components.
 
-The monthly bill displays the bills of a certain month and the total amount of payment, income, and balance.
-The annual bill displays the bills of a certain year and the total amount of payment, income, and balance.
-The form to add new bills.
+#### The monthly bill displays the bills of a certain month and the total amount of payment, income, and balance.
+#### The annual bill displays the bills of a certain year and the total amount of payment, income, and balance.
+#### The form to add new bills.
 
 ### Setup Instruction
 
@@ -35,17 +35,4 @@ a. Execute ```npm run server```
 
 b. The server runs on localhost:3001/bill 
 
-
-
-### Assumptions
-
-NA
-
-### Limitations
-
-NA
-
-### Citations
-
-NA
 

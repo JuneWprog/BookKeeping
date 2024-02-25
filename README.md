@@ -5,9 +5,9 @@
 **Email:**  wang.jun6@northeastern.edu
 
 ### About/Overview
-![image](https://github.com/JuneWprog/BookKeeping/assets/77699526/45aef1f2-64ad-430e-abbf-471a21b20fe4| width=100)
-![image](https://github.com/JuneWprog/BookKeeping/assets/77699526/26d34204-13b6-495f-831f-d446a9cebcad| width=100)
-![image](https://github.com/JuneWprog/BookKeeping/assets/77699526/c9b233c7-0b5d-4692-9415-6ee7fb997441| width=100)
+![image](https://github.com/JuneWprog/BookKeeping/assets/77699526/45aef1f2-64ad-430e-abbf-471a21b20fe4 | width=100)
+![image](https://github.com/JuneWprog/BookKeeping/assets/77699526/26d34204-13b6-495f-831f-d446a9cebcad | width=100)
+![image](https://github.com/JuneWprog/BookKeeping/assets/77699526/c9b233c7-0b5d-4692-9415-6ee7fb997441 | width=100)
 
 ### List of Features
 

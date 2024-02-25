@@ -10,7 +10,7 @@
 <img src ="https://github.com/JuneWprog/BookKeeping/assets/77699526/367e914f-aeba-4084-82f1-5ebdd26f9473" width="250"/>
 
 ### Technologies
-React, style: sass and antd-mobile components, State Container: Redux, HTTP requests: axios Reat Routers
+React, style: sass and antd-mobile components, State Container: Redux, HTTP requests: axios,  Reat Routers: react-router-dom
 
 
 ### List of Features

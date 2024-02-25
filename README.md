@@ -9,13 +9,15 @@
 <img src ="https://github.com/JuneWprog/BookKeeping/assets/77699526/26d34204-13b6-495f-831f-d446a9cebcad" width="250"/>
 <img src ="https://github.com/JuneWprog/BookKeeping/assets/77699526/367e914f-aeba-4084-82f1-5ebdd26f9473" width="250"/>
 
+### Technologies
+React, style: sass and antd-mobile components, State Container: Redux, HTTP requests: axios Reat Routers
 
 
 ### List of Features
 
 The application has 3 major components.
 
-#### The monthly bill displays the bills of a certain month and the total amount of payment, income, and balance.
+#### The monthly bill displays the bills of a certain month and the total amount of payment, income, and balance. Detailed daily bills are also listed under the statement.
 #### The annual bill displays the bills of a certain year and the total amount of payment, income, and balance.
 #### The form to add new bills.
 

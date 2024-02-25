@@ -7,7 +7,9 @@
 ### About/Overview
 <img src ="https://github.com/JuneWprog/BookKeeping/assets/77699526/45aef1f2-64ad-430e-abbf-471a21b20fe4" width="250"/>
 <img src ="https://github.com/JuneWprog/BookKeeping/assets/77699526/26d34204-13b6-495f-831f-d446a9cebcad" width="250"/>
-<img src ="https://github.com/JuneWprog/BookKeeping/assets/77699526/c9b233c7-0b5d-4692-9415-6ee7fb997441" width="250"/>
+<img src ="https://github.com/JuneWprog/BookKeeping/assets/77699526/367e914f-aeba-4084-82f1-5ebdd26f9473" width="250"/>
+
+
 
 ### List of Features
 

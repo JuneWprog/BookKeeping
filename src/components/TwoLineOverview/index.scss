@@ -1,0 +1,34 @@
+.twoLineOverview {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+
+  .item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+
+    .money {
+      height: 24px;
+      line-height: 24px;
+      margin-bottom: 5px;
+      font-size: 18px;
+    }
+    .type {
+      height: 14px;
+      line-height: 14px;
+      font-size: 15px;
+    }
+    .pay{
+      color: red;
+    }
+    .income{
+      color:green;
+    }
+    .balance{
+      color:blue;
+    }
+  }
+}

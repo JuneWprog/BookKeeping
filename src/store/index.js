@@ -1,8 +1,11 @@
-import billReducer from './modules/billStore';
-import { configureStore } from '@reduxjs/toolkit';
+import { configureStore } from '@reduxjs/toolkit'
+
+import ka from './slices/ka'
+
 const store = configureStore({
-    reducer: {
-        bill: billReducer
-    }
-});
-export default store;
+  reducer: {
+    ka,
+  },
+})
+
+export default store

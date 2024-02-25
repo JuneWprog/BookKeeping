@@ -1,27 +1,28 @@
-import {createBrowserRouter} from 'react-router-dom';
-import Layout from '../routes/Layout';
-import Year from '../routes/Year';
-import Month from '../routes/Month';
-import NewNote from '../routes/NewNote';
+import { createBrowserRouter } from 'react-router-dom'
+import KeepAccount from '../pages/KeepAccount'
+import YearBill from '../pages/YearBill'
+import Layout from '../pages/Layout'
+import MonthBill from '../pages/MonthBill'
 
 const router = createBrowserRouter([
-    {path:'/',
-    element:<Layout />,
-    children:[
-        {path:'year',
-        element:<Year/>
-        },
-        {index:true,
-        element:<Month/>
-        }
+  {
+    path: '/',
+    element: <Layout />,
+    children: [
+      {
+        index: true,
+        element: <MonthBill />
+      },
+      {
+        path: 'year',
+        element: <YearBill />
+      }
     ]
-    },
-    {
-    path:'/new-bill',
-    element: <NewNote/>
-    },
-    { path:'*',
-    element:<h1> 404 Not Found</h1>
-    } 
-]);
-export default router;
+  },
+  {
+    path: '/new',
+    element: <KeepAccount />
+  }
+])
+
+export default router

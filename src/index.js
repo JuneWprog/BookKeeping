@@ -2,16 +2,22 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import router from './router';
-import App from './App';
 import { RouterProvider } from 'react-router-dom';
 import './theme.css';
 import {Provider} from 'react-redux';
 import store from './store';
+import { ConfigProvider , setDefaultConfig } from "antd-mobile";
+import enUS from 'antd-mobile/es/locales/en-US'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+setDefaultConfig({
+    locale: enUS,
+  })
 root.render(
     <Provider store={store}>
     <RouterProvider router={router}>
+        <ConfigProvider   locale={enUS}>
+        </ConfigProvider  >
     </RouterProvider>  
     </Provider>
 );
